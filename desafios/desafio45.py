@@ -6,7 +6,7 @@ print("""escolha uma das opções a baixo:
 1 - Pedra!
 2 - Papel!
 3 - Tesoura!""")
-opcao = int(input('Qual opcao deseja?'))
+opcao = int(input('Qual opção deseja? '))
 player = jokenpo[opcao-1]
 aleatorio = choice(jokenpo)
 
