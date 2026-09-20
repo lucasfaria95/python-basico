@@ -1,4 +1,4 @@
-preco = float(input('Qual o valor do prosuto? '))
+preco = float(input('Qual o valor do produto? '))
 
 print('Qual será a forma de pagamento?')
 print('1 - À vista - Dinheiro ou cheque')
